@@ -11,7 +11,12 @@ All help is welcome, Donation towards improving this project can go here:
 
 17fxd3Tpr5cGPrJCsG54fc1b9rh7Yb2cWg
 
+you can reach us at cryptosudan@gmail.com or our facebook page:
+
+https://www.facebook.com/sudancrypto
+
 instructions from the original repo OpenCart_Bitcoin by John Atkinson (jga) from BTC Gear are below:
+
 
 
 This is an OpenCart payment module that communicates with a bitcoin client using JSON RPC.
